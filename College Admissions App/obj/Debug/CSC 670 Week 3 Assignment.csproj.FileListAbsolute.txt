@@ -1,0 +1,12 @@
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\bin\Debug\CSC 670 Week 3 Assignment.exe.config
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\bin\Debug\CSC 670 Week 3 Assignment.exe
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\bin\Debug\CSC 670 Week 3 Assignment.pdb
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\CSC 670 Week 3 Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\CSC_670_Week_3_Assignment.Form1.resources
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\CSC_670_Week_3_Assignment.Properties.Resources.resources
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\CSC 670 Week 3 Assignment.csproj.GenerateResource.Cache
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\CSC 670 Week 3 Assignment.exe
+C:\Users\Z\Box Sync\CSC 670\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\CSC 670 Week 3 Assignment.pdb
+C:\Users\Z\Desktop\School\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\bin\Debug\CSC 670 Week 3 Assignment.exe.config
+C:\Users\Z\Desktop\School\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\CSC 670 Week 3 Assignment.exe
+C:\Users\Z\Desktop\School\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\CSC 670 Week 3 Assignment.pdb
