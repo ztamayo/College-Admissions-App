@@ -7,3 +7,12 @@ C:\Users\Z\Desktop\School\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\ob
 C:\Users\Z\Desktop\School\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\College Admissions App.csproj.GenerateResource.Cache
 C:\Users\Z\Desktop\School\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\College_Admissions_App.exe
 C:\Users\Z\Desktop\School\CSC 670 Week 3 Assignment\CSC 670 Week 3 Assignment\obj\Debug\College_Admissions_App.pdb
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\bin\Debug\College_Admissions_App.exe.config
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\bin\Debug\College_Admissions_App.exe
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\bin\Debug\College_Admissions_App.pdb
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\obj\Debug\College Admissions App.csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\obj\Debug\College_Admissions_App.Form1.resources
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\obj\Debug\College_Admissions_App.Properties.Resources.resources
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\obj\Debug\College Admissions App.csproj.GenerateResource.Cache
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\obj\Debug\College_Admissions_App.exe
+C:\Users\Z\Desktop\School\College Admissions App\College Admissions App\obj\Debug\College_Admissions_App.pdb
